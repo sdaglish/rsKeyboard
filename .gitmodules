@@ -4,3 +4,6 @@
 [submodule "deps/random-keyboard-parts.pretty"]
 	path = deps/random-keyboard-parts.pretty
 	url = git@github.com:ai03-2725/random-keyboard-parts.pretty.git
+[submodule "deps/Keebio-Parts.pretty"]
+	path = deps/Keebio-Parts.pretty
+	url = git@github.com:keebio/Keebio-Parts.pretty.git
